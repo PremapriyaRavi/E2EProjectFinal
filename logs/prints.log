@@ -1,0 +1,3 @@
+20:13:45.076 [TestNG-tests-3] INFO  Academy.validateNavigationBar - Navigationbar is displayed
+20:13:50.351 [TestNG-tests-1] INFO  Academy.HomePage - restricteduser
+20:13:54.366 [TestNG-tests-1] INFO  Academy.HomePage - unrestricted

@@ -1,0 +1,6 @@
+12:11:41.953 [TestNG-tests-1] INFO  Academy.HomePage - browser launched successfully..
+12:11:42.828 [TestNG-tests-2] INFO  Academy.ValidateTitle - Driver is initialised
+12:11:43.474 [TestNG-tests-3] INFO  Academy.validateNavigationBar - Browser is launched..
+12:12:03.958 [TestNG-tests-3] INFO  Academy.validateNavigationBar - Navigationbar is displayed
+12:12:04.105 [TestNG-tests-2] INFO  Academy.ValidateTitle - Navigated to Homepage
+12:12:04.225 [TestNG-tests-2] INFO  Academy.ValidateTitle - Successfuly validated text messages

@@ -1,0 +1,6 @@
+20:04:02.972 [TestNG-tests-3] INFO  Academy.validateNavigationBar - Navigationbar is displayed
+20:04:19.873 [TestNG-tests-1] INFO  Academy.HomePage - unrestricted
+20:13:20.015 [TestNG-tests-3] INFO  Academy.validateNavigationBar - Browser is launched..
+20:13:20.047 [TestNG-tests-2] INFO  Academy.ValidateTitle - Driver is initialised
+20:13:20.898 [TestNG-tests-1] INFO  Academy.HomePage - browser launched successfully..
+20:13:43.658 [TestNG-tests-2] INFO  Academy.ValidateTitle - Navigated to Homepage

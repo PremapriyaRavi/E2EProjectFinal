@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 42.855 s <<< FAILURE! - in TestSuite
+validateTitle(Academy.ValidateTitle)  Time elapsed: 1.309 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<......> but was:<...123...>
+	at Academy.ValidateTitle.validateTitle(ValidateTitle.java:26)
+
